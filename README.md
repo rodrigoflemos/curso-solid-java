@@ -1,6 +1,6 @@
 # curso-solid-java
 
-##SOLID##
+## SOLID
 
 Single responsability principle
 Open closed principle
